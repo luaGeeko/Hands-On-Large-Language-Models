@@ -1,4 +1,19 @@
-﻿# Hands-On Large Language Models
+# Hands-On LLM (My Learning Fork)
+
+This is my personal fork of the [Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) repo. I use it to track my progress, add notebooks, and build intuition for concepts like Word2Vec, embeddings, and transformer architectures.
+
+## What you'll find here
+- 📓 My learning notebooks (starting with Word2Vec from scratch).
+- 🧩 Step-by-step experiments to understand embeddings and language models.
+- 🔍 Notes and observations as I go deeper into LLM concepts.
+
+## Purpose
+This repo serves as:
+- A **learning diary** for me.
+- A place to **push and version-control my Colab notebooks**.
+- A foundation to build projects around word embeddings and large language models.
+
+---
 
 <a href="https://www.linkedin.com/in/jalammar/"><img src="https://img.shields.io/badge/Follow%20Jay-blue.svg?logo=linkedin"></a>
 <a href="https://www.linkedin.com/in/mgrootendorst/"><img src="https://img.shields.io/badge/Follow%20Maarten-blue.svg?logo=linkedin"></a>
@@ -107,3 +122,4 @@ Please consider citing the book if you consider it useful for your research:
   github       = {https://github.com/HandsOnLLM/Hands-On-Large-Language-Models}
 }
 ```
+
